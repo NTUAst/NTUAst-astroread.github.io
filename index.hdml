@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NTHU Astronomy Club</title>
+    <title>NTU Astronomy Club</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <!-- Header Section -->
     <header class="header">
         <div class="overlay">
-            <h1>NTHU Astronomy Club Astrophysics Study Group (AstroRead)</h1>
+            <h1>NTU Astronomy Club Astrophysics Study Group (AstroRead)</h1>
             <p>2018 ~ Present</p>
         </div>
     </header>
@@ -29,7 +29,7 @@
     <!-- Main Content -->
     <section class="main-content">
         <div class="intro">
-            <p>Established in 2018, NTHU AstroRead is a study group/book club for NTHU astronomy club members to learn, share, and discuss advanced astrophysics topics!</p>
+            <p>Established in 20, NTU AstroRead is a study group/book club for NTU astronomy club members to learn, share, and discuss advanced astrophysics topics!</p>
         </div>
 
         <h2>Active Members</h2>
@@ -48,7 +48,7 @@
 
     <!-- Footer (Optional) -->
     <footer>
-        <p>&copy; 2024 NTHU Astronomy Club</p>
+        <p>&copy; 2024 NTU Astronomy Club</p>
     </footer>
 </body>
 </html>
