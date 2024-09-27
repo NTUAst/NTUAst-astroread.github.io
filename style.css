@@ -73,6 +73,21 @@ nav .nav-tabs {
     transform: translateY(0);
 }
 
+
+.main-content {
+    padding: 20px;
+    text-align: center;
+}
+
+.main-content .intro {
+    margin-bottom: 20px;
+}
+
+.main-content h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
 #back-to-top {
     display: none;
     position: fixed;
