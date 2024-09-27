@@ -1,2 +1,2 @@
 # NTUAst-astroread.github.io
-NTUAST websitr for astroread
+NTUAST website for astroread
