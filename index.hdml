@@ -1,10 +1,54 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>My GitHub Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NTHU Astronomy Club</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Welcome to My Website!</h1>
-  <p>This is a simple website hosted on GitHub Pages.</p>
+    <!-- Header Section -->
+    <header class="header">
+        <div class="overlay">
+            <h1>NTHU Astronomy Club Astrophysics Study Group (AstroRead)</h1>
+            <p>2018 ~ Present</p>
+        </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav>
+        <ul class="nav-tabs">
+            <li><a href="#">Active Members</a></li>
+            <li><a href="#">Recent News</a></li>
+            <li><a href="#">Current Semester</a></li>
+            <li><a href="#">Previous Members</a></li>
+            <li><a href="#">Participants</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <section class="main-content">
+        <div class="intro">
+            <p>Established in 2018, NTHU AstroRead is a study group/book club for NTHU astronomy club members to learn, share, and discuss advanced astrophysics topics!</p>
+        </div>
+
+        <h2>Active Members</h2>
+        <div class="member-list">
+            <div class="member">
+                <img src="member1.jpg" alt="Member 1">
+                <p>Member 1</p>
+            </div>
+            <div class="member">
+                <img src="member2.jpg" alt="Member 2">
+                <p>Member 2</p>
+            </div>
+            <!-- Add more members -->
+        </div>
+    </section>
+
+    <!-- Footer (Optional) -->
+    <footer>
+        <p>&copy; 2024 NTHU Astronomy Club</p>
+    </footer>
 </body>
 </html>
